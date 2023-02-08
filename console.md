@@ -96,7 +96,7 @@ Page                                       Size     First Load JS
 
 The build artifact is located in the **dist folder**.
 
-5. **(optional step)** You can now delete move the **dist** folder to a different location and delete the frontend-monorepo folder
+5. **(optional step)** You can now delete or move the **dist** folder to a different location and delete the frontend-monorepo folder
 
 6. Navigate to the dist folder
 
@@ -135,4 +135,4 @@ warn - Update your configuration file to silence this warning.
 
 9. You can now open your favorite web browser and navigate to http://localhost:3000
 
-**HAPPY TRAIDING!**
+**HAPPY TRADING!**
